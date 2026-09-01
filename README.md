@@ -1,4 +1,8 @@
 
-# senior-project-practice
+# Student Developer Profile
 
-Welcome to my senior project practice github repository. My goal today was to show my skills in making, pushing, and pulling to github.
+Name: Precious Ikejiofor
+Technology Interest: Biomedical Engineering
+Senior Project Skill Goal: Collaboration on a large project and navigating github with classmates.
+
+Branch → Code → Commit → Push → Pull Request → Review → Merge
