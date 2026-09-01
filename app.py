@@ -1,0 +1,1 @@
+print("Name: Precious Ikejiofor\nMajor: Computer Science\nTechnology Interest: Biomedical Engineering\nSkill Goal: Collaboration on a large project and navigating github with classmates.\n")
